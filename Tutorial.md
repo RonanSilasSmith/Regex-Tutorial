@@ -54,4 +54,4 @@ Lookaround assertions allow you to alter what is around a certian character in a
 
 ## Author
 
-My name is Ronan Smith 
+My name is Ronan Smith https://github.com/RonanSilasSmith
